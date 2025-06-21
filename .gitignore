@@ -1,0 +1,16 @@
+# 🔐 Environment & API Keys
+.env
+.env.*
+
+# 🐍 Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 🧪 Virtual Environments
+venv/
+.conda/
+
+# 💻 Editor settings (optional)
+.vscode/
