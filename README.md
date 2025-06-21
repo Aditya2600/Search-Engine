@@ -20,8 +20,9 @@ This project is a Streamlit-based chatbot powered by LangChain and Groq’s blaz
 
 ## 📸 Screenshot
 
-![screenshot](https://github.com/your-username/your-repo-name/assets/demo-image.png)  
-*(optional — add a screenshot of your chatbot UI)*
+ 
+*![image](https://github.com/user-attachments/assets/5022450e-46f9-4121-8835-3667d3851134)
+*
 
 ---
 
